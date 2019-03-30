@@ -1,0 +1,13 @@
+.login-page, .register-page {
+	background: rgba(0, 0, 0, 0) linear-gradient(45deg, rgba(248, 50, 114, 1) 0%, rgba(63, 142, 252, 1) 100%) repeat scroll 0 0 !important;
+}
+
+.login-logo a, .register-logo a {
+	color: #fff !important;
+}
+
+.btn-primary {
+	background-color: #f83272 !important;
+	border: none !important;
+	border-radius : 50px !important;
+}

@@ -1,0 +1,61 @@
+.err{
+  color:red ;
+}
+.ui-li-static span {
+  margin-right: 15px;
+}
+.ui-li-static {
+  font-size: 16px;
+}
+.ui-collapsible-heading-toggle:focus {
+  box-shadow: none !important;
+}
+.ui-overlay-a, .ui-page-theme-a, .ui-page-theme-a .ui-panel-wrapper {
+  text-shadow: none !important;
+}
+.rating {
+    margin-bottom: 2px;
+    display: inline-block;
+    display: inline-block;
+    width: 100%;
+}
+.rating .inline-ul{
+  padding: 0;
+}
+.inline-ul > li {
+    display: inline;
+}
+.amber-text {
+    color: #ffc107 !important;
+}
+.rating li i {
+    color: #ccc;
+}
+.business-ui{
+    padding: 0px 10px;
+    color: #333;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 100%;
+    font-weight: 600;
+    margin: 0;
+}
+.business-ul>li{
+  list-style: none;
+  color: #040404;
+  font-size: 16px; 
+}
+.business_brdr{
+  border-bottom: 1px dashed #3c8dbc;
+}
+.black{
+  color: #333 !important;
+}
+.black:focus, .black:hover {
+  color: #3c8dbc !important;
+}
+.artist-btn{
+  margin-top: 4px;
+}
